@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Hypixel Stats Website
+- 🔭 I’m currently working on JavaScript Song search engine
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: 
    - Discord: *SlovenianGamer#0498*
