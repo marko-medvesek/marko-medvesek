@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on JavaScript Song search engine
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning NodeJS with Express
 - 📫 How to reach me: 
    - Discord: *SlovenianGamer#0498*
  
