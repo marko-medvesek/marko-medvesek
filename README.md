@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on JavaScript Song search engine
 - 🌱 I’m currently learning NodeJS with Express
 - 📫 How to reach me: 
-   - Discord: *SlovenianGamer#0498*
-   - Email: info@slovenski.tech
+   - Discord: <b>@slogamer</b> (*known as SlovenianGamer#0498*)
+   - Email: info@m-m.world
  
 ### Stats
 
