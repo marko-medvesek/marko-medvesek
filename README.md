@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NodeJS with Express
 - 📫 How to reach me: 
    - Discord: <b>@slogamer</b> (*known as SlovenianGamer#0498*)
-   - Email: info@m-m.world
+   - Email: info@medvesek.pro
  
 ### Stats
 
